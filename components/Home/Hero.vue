@@ -26,8 +26,6 @@
 	</div>
 	<div class="-mt-[108px]">
 		<NuxtImg src="/img/hero.png" width="1000" height="1000" class="ml-4"/>
-		<!-- <NuxtImg src="/svg/studentcount.svg" class="-mt-[212px] -ml-28" width="250"/> -->
-		<!-- <NuxtImg src="/svg/barchart.svg" width="120" height="120" class="-mt-64 ml-[450px]" /> -->
 	</div>
 </div>
 </template>
