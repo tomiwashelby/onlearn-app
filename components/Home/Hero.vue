@@ -25,7 +25,7 @@
 		</div>
 	</div>
 	<div class="">
-		<NuxtImg src="/img/hero.png" height="1000" width="1000"/>
+		<NuxtImg src="/img/hero.png" height="1100" width="1100"/>
 	</div>
 </div>
 </template>
