@@ -1,5 +1,5 @@
 <template>
-<div class="grid grid-cols-1 place-items-center md:grid-cols-2 place-items-center px-24 -mt-12">
+<div class="flex flex items-center px-24 -mt-12">
 	<div class="mb-auto pt-16 sm:pt-24 md:pt-32">
 		<p class="px-6 py-2 bg-white rounded-[10px] w-52 text-center mb-6">Never stop learning</p>
 		<h1 class="text-[48px] leading-tight font-bold mb-6 w-full text-color-pri">Grow up your skills by online courses with Onlearning</h1>
