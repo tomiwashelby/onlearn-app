@@ -3,7 +3,7 @@
 		<NuxtLink to="/">
 			<NuxtImg src="/svg/headerlogo.svg" alt="" class="text-center" width="190"/>
 		</NuxtLink>
-		<ul class="flex gap-14">
+		<ul class="flex gap-4 sm:gap-8 md:gap-14">
 			<li v-for="(item, i) in menuItems" :key="i" class="text-color-pri font-semibold hover:text-color-sec duration-200">
 				<NuxtLink :to="item.path">{{ item.title }}</NuxtLink>
 			</li>

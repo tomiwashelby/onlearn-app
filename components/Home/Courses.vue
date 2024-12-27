@@ -13,7 +13,7 @@
 		</ul>
 		<div class="grid grid-cols-4 gap-8">
 			<div v-for="(course, i) in courseList" :key="i">
-				<div class="rounded-2xl w-64 h-96 overflow-hidden shadow-xl">
+				<div class="rounded-2xl w-fit h-fit overflow-hidden shadow-xl">
 					<div class="h-[40%]">
 						<NuxtImg :src="course.image" alt="" class="w-full h-full" />
 					</div>
