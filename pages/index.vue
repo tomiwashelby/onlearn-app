@@ -1,5 +1,5 @@
 <template>
-	<div class="bg-gray-50 text-xs sm:text-sm md:text-base">
+	<div class="bg-gray-50">
 		<AppHeader/>
 		<AppBody/>
 		<AppFooter/>

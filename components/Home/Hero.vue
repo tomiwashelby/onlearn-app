@@ -1,5 +1,5 @@
 <template>
-<div class="pt-32 flex justify-between px-24">
+<div class="pt-32 flex justify-between px-24 -mt-12">
 	<div class="mb-auto">
 		<p class="px-6 py-2 bg-white rounded-[10px] w-52 text-center mb-6">Never stop learning</p>
 		<h1 class="text-[48px] leading-tight font-bold mb-6 w-full text-color-pri">Grow up your skills by online courses with Onlearning</h1>
@@ -25,7 +25,7 @@
 		</div>
 	</div>
 	<div class="-mt-[108px]">
-		<NuxtImg src="/img/hero.png" width="1200" height="1200" class="ml-4"/>
+		<NuxtImg src="/img/hero.png" width="1000" height="1000" class="ml-4"/>
 	</div>
 </div>
 </template>
