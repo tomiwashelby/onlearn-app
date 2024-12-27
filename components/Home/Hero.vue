@@ -25,7 +25,7 @@
 		</div>
 	</div>
 	<div class="-mt-[108px]">
-		<NuxtImg src="/img/hero.png" width="1000" height="1000" class="ml-4"/>
+		<NuxtImg src="/img/hero.png" width="1200" height="1200" class="ml-4"/>
 	</div>
 </div>
 </template>
