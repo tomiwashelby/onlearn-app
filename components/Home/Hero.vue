@@ -1,5 +1,5 @@
 <template>
-<div class="lg:flex lg:justify-between lg:items-center px-24 max-h-screen">
+<div class="lg:flex lg:justify-between lg:items-center px-24 min-h-screen">
 	<div class="">
 		<p class="px-6 py-2 bg-white rounded-[10px] w-[35%] text-center mb-6">Never stop learning</p>
 		<h1 class="text-[47px] leading-tight font-bold mb-6 text-color-pri">Grow up your skills by online courses with Onlearning</h1>
